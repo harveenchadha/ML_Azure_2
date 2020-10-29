@@ -54,3 +54,4 @@ Kindly check the screen recording on [Youtube](https://www.youtube.com/watch?v=b
 ![alt text](./Screenshots/21_pipelines_running.png)
 ![alt text](./Screenshots/22_pipeline_active.png)
 ![alt text](./Screenshots/1_dataset.png)
+![alt text](./Screenshots/22_jupyter_screenshot.png)
